@@ -14,11 +14,6 @@
 ## Tableau Dashboard Links
 Wine Reviews Dashboard Link: https://public.tableau.com/app/profile/sayam.kumar3450/viz/WineReviewsDashboard/WineReviewsDashboard
 
-
-## UserInterface
-![MainUI](https://user-images.githubusercontent.com/40850370/129313161-b74283ea-0ad7-4e7e-a196-578dc2ed49ef.png)
-![DatabaseUI](https://user-images.githubusercontent.com/40850370/129313188-893dd686-5452-445d-a1ed-478ba17089c1.png)
-
 ## Technologies Used
 <pre> 
 1. Python 
