@@ -15,7 +15,7 @@
 ## Tableau Dashboard Links
 Wine Reviews Dataset Dashboard Link: https://public.tableau.com/app/profile/sayam.kumar3450/viz/WineReviewsDashboard/WineReviewsDashboard
 
-## Power BI Dashboard Links
+## PowerBI Dashboard Links
 <p> Custom Dataset Dashboard Link: https://app.powerbi.com/links/ENmf8NQitp?ctid=42cc3295-cd0e-449c-b98e-5ce5b560c1d3&pbi_source=linkShare </p>
 <p> Products Dataset Dashboard Link: https://app.powerbi.com/links/aXxlH1ZMhq?ctid=42cc3295-cd0e-449c-b98e-5ce5b560c1d3&pbi_source=linkShare </p>
 
