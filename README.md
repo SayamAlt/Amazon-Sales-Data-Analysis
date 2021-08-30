@@ -34,7 +34,7 @@ Wine Reviews Dataset Dashboard Link: https://public.tableau.com/app/profile/saya
 </pre>
 
 ## HLD , LLD & WireFrame
-Link : 
+Link : https://drive.google.com/drive/folders/1di__hyAQvxpkILnb9Lak3DfIxtg2g2pg?usp=sharing
 
 ## Help Me Improve
 <p> Hello readers, if you find any bugs, please consider raising issue so that I can address them asap.</p>
