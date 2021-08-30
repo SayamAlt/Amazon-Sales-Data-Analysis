@@ -7,7 +7,8 @@
 <p>The main goal of the project is to find key metrics and factors and then show meaningful relationships between them based on different features available in the dataset.</p>
 <pre> 
 <li> Data Collection      : Imported data from various datasets available in the project using Pandas library. </li>
-<li> Data Cleaning        : Removed missing values and created new features as per insights.</li>
+<li> Data Cleaning        : Removed missing values and created new features as per insights. </li>
+<li> Data Preprocessing   : Modified the structure of data in order to make it more understandable and suitable and convenient for statistical analysis. </li>
 <li> Data Analysis        : I started analyzing dataset using Pandas,Numpy,Matplotlib and Seaborn. </li>
 <li> Data Visualization   : Plotted graphs to get insights about dependent and independent variables. Also used Tableau and PowerBI for data visulization. </li>
 </pre>
