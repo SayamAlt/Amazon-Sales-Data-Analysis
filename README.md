@@ -32,7 +32,7 @@ Link: https://drive.google.com/drive/folders/1VN4Jc4Nm1xwl8-dGgt_RHH-81HY2yhkZ?u
 9. PowerBI 
 </pre>
 
-## HLD , LLD & WireFrame
+## HLD, LLD, WireFrame, Architecture and Detailed Project Report
 Link : https://drive.google.com/drive/folders/1di__hyAQvxpkILnb9Lak3DfIxtg2g2pg?usp=sharing
 
 ## Help Me Improve
